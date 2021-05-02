@@ -10,6 +10,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 [//]: # I referred to the following webiste.
 [//]: # (This is a comment on a new line.)
 [//]: # (This is a comment on a new line.)
+[//]: # Adds links to school and departments.
 [//]: # Things to do
 [//]: # Update 3 ICASSP papers to CV.
 [//]: # Updates publications.
@@ -19,15 +20,26 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Education
 
- Ph. D. Language and Information Technologies, School of Computer Science, Carnegie Mellon University, Dec. 2010.
+ - Ph. D. Language and Information Technologies, School of Computer Science, Carnegie Mellon University, Dec. 2010.
 
- M. S. Dept. of Electrical and Computer Engineering, Seoul National University, Feb. 2001.
+ - M. S. Dept. of Electrical and Computer Engineering, Seoul National University, Feb. 2001.
 
- B. S. Dept of Electrical Engineering, Seoul National University, Feb. 1998.
+ - B. S. Dept. of Electrical Engineering, Seoul National University, Feb. 1998.
 
- Seoul Science High School, Feb. 1994.
+ - Seoul Science High School, Feb. 1994.
 
+
+### Work Experience
+
+ - Samsung Research, Corporate Vice President, Head of Speech Processing Lab.  Seoul, South Korea
+   (Feb. 2018 ~ Present)
+
+ - Google, Senior Software Engineer, Google Speech, Mountain View, CA, USA
+   (Feb. 19th, 2013 ~ Feb. 18th, 2018)
  
+ - Microsoft, Speech Scientist, Redmond, WA, USA
+   (Jan. 4th, 2011 ~ Jan. 30th, 2013)
+
 
 ### Short Biography
 

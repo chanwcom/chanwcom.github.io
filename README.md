@@ -2,7 +2,7 @@
 
 ## Corporate Vice President, Samsung Research
 
-### Head of Speech Processing Lab., AI Research Team,\
+### Head of Speech Processing Lab., AI Research Team,
 ### Samsung Research, Seoul South Korea
 
 #### Phone: +82-10-4043-3996

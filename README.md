@@ -4,6 +4,31 @@ You can use the [editor on GitHub](https://github.com/chanwcom/chanwcom.github.i
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+
+
+
+[//]: # I referred to the following webiste.
+[//]: # (This is a comment on a new line.)
+[//]: # (This is a comment on a new line.)
+[//]: # Things to do
+[//]: # Update 3 ICASSP papers to CV.
+[//]: # Updates publications.
+[//]: # Updates research interests.
+
+
+
+### Education
+
+ Ph. D. Language and Information Technologies, School of Computer Science, Carnegie Mellon University, Dec. 2010.
+
+ M. S. Dept. of Electrical and Computer Engineering, Seoul National University, Feb. 2001.
+
+ B. S. Dept of Electrical Engineering, Seoul National University, Feb. 1998.
+
+ Seoul Science High School, Feb. 1994.
+
+ 
+
 ### Short Biography
 
 
@@ -14,9 +39,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+
+### Papers
+
 
 - Bulleted
 - List

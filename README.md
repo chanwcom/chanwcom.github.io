@@ -2,11 +2,11 @@
 
 ## Corporate Vice President, Samsung Research
 
-Head of Speech Processing Lab., AI Research Team,\
-Samsung Research, Seoul South Korea
+### Head of Speech Processing Lab., AI Research Team,\
+### Samsung Research, Seoul South Korea
 
-Phone: +82-10-4043-3996
-E-mail: chanw.com at samsung.com, chanwcom at gmail.com
+#### Phone: +82-10-4043-3996
+#### E-mail: chanw.com at samsung.com, chanwcom at gmail.com
 
  - End-to-end fully neural speech recognition
  - End-to-end fully neural Text-to-Speech (TTS)
@@ -23,7 +23,7 @@ E-mail: chanw.com at samsung.com, chanwcom at gmail.com
 [//]: # Updates publications.
 [//]: # Updates research interests.
 
---------------------------------------------------------------------------------------------
+----------------------------------------------------------------------
 
 ### Education
 
@@ -35,6 +35,7 @@ E-mail: chanw.com at samsung.com, chanwcom at gmail.com
 
  - Seoul Science High School, Feb. 1994.
 
+----------------------------------------------------------------------
 
 ### Work Experience
 

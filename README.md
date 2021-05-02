@@ -1,10 +1,17 @@
-## Welcome to GitHub Pages
+# Chanwoo Kim
 
-You can use the [editor on GitHub](https://github.com/chanwcom/chanwcom.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Corporate Vice President, Samsung Research
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Head of Speech Processing Lab., AI Research Team,\
+Samsung Research, Seoul South Korea
 
+Phone: +82-10-4043-3996
+E-mail: chanw.com at samsung.com, chanwcom at gmail.com
 
+ - End-to-end fully neural speech recognition
+ - End-to-end fully neural Text-to-Speech (TTS)
+ - Speech pre-processing
+ - Language processing
 
 
 [//]: # I referred to the following webiste.
@@ -15,8 +22,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 [//]: # Update 3 ICASSP papers to CV.
 [//]: # Updates publications.
 [//]: # Updates research interests.
-
-
 
 
 

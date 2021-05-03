@@ -1,4 +1,6 @@
-# Chanwoo Kim
+# Chanwoo Kim ![picture_of_chanwoo_kim](./figures/chanwoo_kim_fb.jpg)
+
+
 
 ## Corporate Vice President, Samsung Research
 
@@ -16,8 +18,9 @@
 
 - Google-Scholar: https://scholar.google.com/citations?user=pJoZXxYAAAAJ&hl=en&oi=ao
 - Linked-In: https://www.linkedin.com/in/chanwoo-kim-2628a622/
-- CMU CS website (No longer updated after 2017):
+- Research gate: https://www.researchgate.net/profile/Chanwoo-Kim-4
 - Facebook: facebook.com/chanwcom
+- CMU CS website (No longer updated from 2017):
 
 
 [//]: # Updating the picture
@@ -60,6 +63,7 @@
 
  - Edumediatek, Research Engineer, Seoul, South Korea\
    (2000 ~ 2002)
+
 ----------------------------------------------------------------------
 
 

@@ -15,6 +15,7 @@
  - Speech pre-processing and enhancement
  - Language processing and modeling
 
+----------------------------------------------------------------------
 
 For papers refer to the following Google Scholar link:
  - [Google-Scholar](https://scholar.google.com/citations?user=pJoZXxYAAAAJ&hl=en&oi=ao)
@@ -69,9 +70,9 @@ For papers refer to the following Google Scholar link:
 
 
 ### Award
-  - IEEE Signal Processing Society Best Paper Award, 2019.
-  - 17-th Samsung Human Tech Thesis Bronze Prize, Feb. 2011.
-  - 16-th, Samsung Human Tech Thesis Honour Prize, Feb., 2010.
+  - (1st-author) IEEE Signal Processing Society Best Paper Award, 2019.
+  - (1st-author) 17-th Samsung Human Tech Thesis Bronze Prize, Feb., 2011.
+  - (1st-author) 16-th, Samsung Human Tech Thesis Honour Prize, Feb., 2010.
   - Research Fellowship for Ph. D. study (2005-2010), Carnegie Mellon
     University, Jan. 2005.
   - Scholarship for studying abroad (2005-2007), Korea Institute of Energy Evaluation and

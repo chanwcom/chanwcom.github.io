@@ -7,12 +7,15 @@
 #### Phone: +82-10-4043-3996
 #### E-mail: chanw.com at samsung.com, chanwcom at gmail.com
 
+
+### Research Area
  - End-to-end fully neural speech recognition
  - End-to-end fully neural Text-to-Speech (TTS)
  - Speech pre-processing and enhancement
  - Language processing and modeling
 
 
+For papers refer to the following Google Scholar link:
 - [Google-Scholar] (https://scholar.google.com/citations?user=pJoZXxYAAAAJ&hl=en&oi=ao)
 - [Linked-In Page] (https://www.linkedin.com/in/chanwoo-kim-2628a622/)
 - [Research gate] (https://www.researchgate.net/profile/Chanwoo-Kim-4)

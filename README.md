@@ -10,10 +10,10 @@
 ----------------------------------------------------------------------
 
 ### Research Area
- - End-to-end fully neural speech recognition
- - End-to-end fully neural Text-to-Speech (TTS)
- - Speech pre-processing and enhancement
- - Language processing and modeling
+ #### -  End-to-end fully neural speech recognition
+ #### - End-to-end fully neural Text-to-Speech (TTS)
+ #### - Speech pre-processing and enhancement
+ #### - Language processing and modeling
 
 ----------------------------------------------------------------------
 

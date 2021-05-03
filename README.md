@@ -10,10 +10,17 @@
 
  - End-to-end fully neural speech recognition
  - End-to-end fully neural Text-to-Speech (TTS)
- - Speech pre-processing
- - Language processing
+ - Speech pre-processing and enhancement
+ - Language processing and modeling
 
 
+- Google-Scholar: https://scholar.google.com/citations?user=pJoZXxYAAAAJ&hl=en&oi=ao
+- Linked-In: https://www.linkedin.com/in/chanwoo-kim-2628a622/
+- CMU CS website (No longer updated after 2017):
+- Facebook: facebook.com/chanwcom
+
+
+[//]: # Updating the picture
 [//]: # I referred to the following webiste.
 [//]: # (This is a comment on a new line.)
 [//]: # (This is a comment on a new line.)
@@ -53,7 +60,17 @@
 
  - Edumediatek, Research Engineer, Seoul, South Korea\
    (2000 ~ 2002)
+----------------------------------------------------------------------
 
+
+### Award
+  - IEEE Signal Processing Society Best Paper Award
+  - Samsung Human Tech Thesis Bronze Prize
+  - Samsung Human Tech Thesis Honour Prize
+  - Research Fellowship
+  - Scholarship for studying abroad
+
+----------------------------------------------------------------------
 
 ### Short Biography
 

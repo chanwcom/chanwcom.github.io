@@ -1,5 +1,6 @@
-# Chanwoo Kim ![picture_of_chanwoo_kim](./figures/chanwoo_kim_fb.jpg | width=200)
+# Chanwoo Kim ![picture_of_chanwoo_kim]
 
+<img src="./figures/chanwoo_kim_fb.jpg" width="200"/>
 
 
 ## Corporate Vice President, Samsung Research
@@ -16,11 +17,11 @@
  - Language processing and modeling
 
 
-- Google-Scholar: https://scholar.google.com/citations?user=pJoZXxYAAAAJ&hl=en&oi=ao
-- Linked-In: https://www.linkedin.com/in/chanwoo-kim-2628a622/
-- Research gate: https://www.researchgate.net/profile/Chanwoo-Kim-4
-- Facebook: facebook.com/chanwcom
-- CMU CS website (No longer updated from 2017):
+- [Google-Scholar] (https://scholar.google.com/citations?user=pJoZXxYAAAAJ&hl=en&oi=ao)
+- [Linked-In Page] (https://www.linkedin.com/in/chanwoo-kim-2628a622/)
+- [Research gate] (https://www.researchgate.net/profile/Chanwoo-Kim-4)
+- [Facebook] (https://www.facebook.com/chanwcom)
+- [Previous CMU CS website - No longer updated from 2017] (http://www.cs.cmu.edu/~chanwook/)
 
 
 [//]: # Updating the picture

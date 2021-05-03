@@ -1,4 +1,5 @@
-# Chanwoo Kim ![picture_of_chanwoo_kim](./figures/chanwoo_kim_fb.jpg)
+# Chanwoo Kim ![picture_of_chanwoo_kim](./figures/chanwoo_kim_fb.jpg
+| width=200)
 
 
 

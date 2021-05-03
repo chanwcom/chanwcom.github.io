@@ -68,11 +68,15 @@
 
 
 ### Award
-  - IEEE Signal Processing Society Best Paper Award
-  - Samsung Human Tech Thesis Bronze Prize
-  - Samsung Human Tech Thesis Honour Prize
-  - Research Fellowship
-  - Scholarship for studying abroad
+  - IEEE Signal Processing Society Best Paper Award, 2019.
+  - 17-th Samsung Human Tech Thesis Bronze Prize, Feb. 2011.
+  - 16-th, Samsung Human Tech Thesis Honour Prize, Feb., 2010.
+  - Research Fellowship for Ph. D. study (2005-2010), Carnegie Mellon
+    University, Jan. 2005.
+  - Scholarship for studying abroad (2005-2007), Korea Institute of Energy Evaluation and
+    Planning, July 2005.
+  - Graduate cum laude with a bachelors degree, Seoul National University, Feb.
+    1998.
 
 ----------------------------------------------------------------------
 

@@ -7,6 +7,7 @@
 #### Phone: +82-10-4043-3996
 #### E-mail: chanw.com at samsung.com, chanwcom at gmail.com
 
+----------------------------------------------------------------------
 
 ### Research Area
  - End-to-end fully neural speech recognition
@@ -16,11 +17,11 @@
 
 
 For papers refer to the following Google Scholar link:
-- [Google-Scholar] (https://scholar.google.com/citations?user=pJoZXxYAAAAJ&hl=en&oi=ao)
-- [Linked-In Page] (https://www.linkedin.com/in/chanwoo-kim-2628a622/)
-- [Research gate] (https://www.researchgate.net/profile/Chanwoo-Kim-4)
-- [Facebook] (https://www.facebook.com/chanwcom)
-- [Previous CMU CS website - No longer updated from 2017] (http://www.cs.cmu.edu/~chanwook/)
+ - [Google-Scholar](https://scholar.google.com/citations?user=pJoZXxYAAAAJ&hl=en&oi=ao)
+ - [Linked-In Page](https://www.linkedin.com/in/chanwoo-kim-2628a622/)
+ - [Research gate](https://www.researchgate.net/profile/Chanwoo-Kim-4)
+ - [Facebook](https://www.facebook.com/chanwcom)
+ - [Previous CMU CS website - No longer updated from 2017](http://www.cs.cmu.edu/~chanwook/)
 
 
 [//]: # Updating the picture

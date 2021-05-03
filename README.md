@@ -68,7 +68,6 @@ For papers refer to the following Google Scholar link:
 
 ----------------------------------------------------------------------
 
-
 ### Award
   - (1st-author) IEEE Signal Processing Society Best Paper Award, 2019.
   - (1st-author) 17-th Samsung Human Tech Thesis Bronze Prize, Feb., 2011.
@@ -81,6 +80,31 @@ For papers refer to the following Google Scholar link:
     1998.
 
 ----------------------------------------------------------------------
+
+### Commercialization achievements
+  - Samsung on-device end-to-end neural speech recognition for room and floor air
+    conditioners
+  - Samsung on-device end-to-end neural speech recognition for dictation on mobile phones
+  - Samsung on-device neural Text-To-Speech (TTS) for Android
+  - Samsung cloud neural Text-To-Speech (TTS) for Bixby
+  - Speech pre-processing and wakeup for Galaxy Home Mini.
+  - Speech pre-processing for Room Air Conditioners
+  - Sound Event Detection engine for Samsung Robot Vacuum Cleaners. 
+  - Data-augmentation for speech recognition used in Google Home and Google Voice Search
+  - Acoustic Modeling (AM) of Google speech recognition systems for Google
+    Assistants and Google Voice
+
+
+----------------------------------------------------------------------
+
+### Professional Services
+  - IEEE ICASSP 2024 Organizing Committee
+  - INTERSPEECH 2022 Industry Liaison Chair
+  - INTERSPEECH 2020 Session Chair
+  - AAAI 2019 Senior Program Committee (SPC)
+  - Reviewers for various conferences and journals including ICASSP,
+    INTERSPEECH, Eurasip Journals, Signal Processing Systems, Speech
+Communication, and so on.
 
 ### Short Biography
 

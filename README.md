@@ -1,9 +1,5 @@
-# Chanwoo Kim ![picture_of_chanwoo_kim]
-
-<img src="./figures/chanwoo_kim_fb.jpg" width="200"/>
-
-
 ## Corporate Vice President, Samsung Research
+<img src="./figures/chanwoo_kim_fb.jpg" width="300"/>
 
 ### Head of Speech Processing Lab., AI Research Team,
 ### Samsung Research, Seoul South Korea

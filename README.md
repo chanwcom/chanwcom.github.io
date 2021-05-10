@@ -100,8 +100,8 @@ For papers refer to the following Google Scholar link:
 ### Professional Services
   - IEEE ICASSP 2024 Organizing Committee
   - INTERSPEECH 2022 Industry Liaison Chair
+  - AAAI 2021 Senior Program Committee (SPC)
   - INTERSPEECH 2020 Session Chair
-  - AAAI 2020 Senior Program Committee (SPC)
   - Served as a reviewer for various conferences and journals including ICASSP,
     INTERSPEECH, Eurasip Journals, Signal Processing Systems, Speech
 Communication, and so on.

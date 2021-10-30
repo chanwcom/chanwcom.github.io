@@ -14,6 +14,8 @@
 ####    End-to-end fully neural Text-To-Speech (TTS)
 ####    Speech pre-processing and enhancement
 ####    Language processing and modeling
+####    Natural Language understanding
+####    Machine Translation
 
 ----------------------------------------------------------------------
 

@@ -1,21 +1,21 @@
 ## Corporate Vice President, Samsung Research
 <img src="./figures/chanwoo_kim_fb.jpg" width="300"/>
 
-### Head of Speech Processing (SP) and Natural Language Processing (NLP) Lab., AI Research Team,
-### Samsung Research, Seoul South Korea
+#### Head of Speech Processing (SP) and Natural Language Processing (NLP) Lab., AI Research Team,
+#### Samsung Research, Seoul South Korea
 
-#### Phone: +82-10-4043-3996
-#### E-mail: chanw.com at samsung.com, chanwcom at gmail.com
+##### Phone: +82-10-4043-3996
+##### E-mail: chanw.com at samsung.com, chanwcom at gmail.com
 
 ----------------------------------------------------------------------
 
 ### Research Area
-####    End-to-end fully neural speech recognition
-####    End-to-end fully neural Text-To-Speech (TTS)
-####    Speech pre-processing and enhancement
-####    Language processing and modeling
-####    Natural Language understanding
-####    Machine Translation
+#####    End-to-end fully neural Automatic Speech Recognition (ASR)
+#####    End-to-end fully neural Text-To-Speech (TTS)
+#####    Speech pre-processing and enhancement
+#####    Language Modeling (LM)
+#####    Natural Language Understanding (NLU)
+#####    Machine Translation (MT)
 
 ----------------------------------------------------------------------
 

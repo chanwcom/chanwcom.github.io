@@ -1,8 +1,8 @@
-## Corporate Vice President, Samsung Research
+## Corporate Executive Vice President, Samsung Research
 <img src="./figures/chanwoo_kim_fb.jpg" width="300"/>
 
-#### Head of Speech Processing (SP) Lab. and Natural Language Processing (NLP) Lab. 
-#### AI Research Team,
+#### Head of Language & Voice Team
+#### Global AI Center,
 #### Samsung Research, Seoul South Korea
 
 ##### Phone: +82-10-4043-3996
@@ -57,7 +57,7 @@ For papers refer to the following Google Scholar link:
 
 ### Work Experience
 
- - Samsung Research, Corporate Vice President, Head of Speech Processing Lab.  Seoul, South Korea\
+ - Samsung Research, Corporate Executive Vice President (EVP) (Dec. 2021 ~ Present), Head of Voice & Language Team.  Seoul, South Korea\
    (Feb. 2018 ~ Present)
 
  - Google, Senior Software Engineer, Google Speech, Mountain View, CA, USA\

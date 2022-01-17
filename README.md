@@ -17,6 +17,8 @@
 #####    Language Modeling (LM)
 #####    Natural Language Understanding (NLU)
 #####    Machine Translation (MT)
+#####    Question and Answering (QA)
+#####    Dialog System
 
 ----------------------------------------------------------------------
 
@@ -32,6 +34,7 @@ For papers refer to the following Google Scholar link:
 
 
 [//]: # Updating the picture
+[//]: # Use jekeyll
 [//]: # I referred to the following webiste.
 [//]: # (This is a comment on a new line.)
 [//]: # (This is a comment on a new line.)

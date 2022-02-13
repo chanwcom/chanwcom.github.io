@@ -7,7 +7,7 @@ main:
   - title: "Papers"
     url: /papers/
   - title: "Patents"
-    url" /patents/
+    url: /patents/
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/

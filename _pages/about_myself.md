@@ -1,3 +1,13 @@
+---
+permalink: /about_myself/
+title: "About Myself"
+toc: true
+sidebar:
+  nav: "docs"
+---
+
+
+
 ## Corporate Executive Vice President, Samsung Research
 <img src="./figures/chanwoo_kim_fb.jpg" width="300"/>
 

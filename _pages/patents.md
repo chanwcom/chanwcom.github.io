@@ -5,4 +5,4 @@ toc: true
 #sidebar:
 #  nav: "docs"
 ---
-Papers will be added here.
+Patents will be added here.

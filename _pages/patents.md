@@ -1,6 +1,6 @@
 ---
-permalink: /publication/
-title: "Publication"
+permalink: /patents/
+title: "Patents"
 toc: true
 #sidebar:
 #  nav: "docs"

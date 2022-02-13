@@ -9,7 +9,7 @@ sidebar:
 
 
 ## Corporate Executive Vice President, Samsung Research
-<img src="./figures/chanwoo_kim_fb.jpg" width="300"/>
+<img src="/assets/images/chanwoo_kim_fb.jpg" width="300"/>
 
 #### Head of Language & Voice Team
 #### Global AI Center,

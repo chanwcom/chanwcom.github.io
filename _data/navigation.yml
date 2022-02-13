@@ -8,6 +8,8 @@ main:
     url: /papers/
   - title: "Patents"
     url: /patents/
+  - title: "Blog"
+    url: /blogs/
   - title: "My On-line Books"
     url: /online_books/
   #   url: https://mmistakes.github.io/minimal-mistakes/about/

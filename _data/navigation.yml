@@ -12,6 +12,8 @@ main:
     url: /blogs/
   - title: "My On-line Books"
     url: /online_books/
+  - title: "News"
+    url: /news/
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/

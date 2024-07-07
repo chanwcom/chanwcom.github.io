@@ -10,4 +10,10 @@ var store = [{
         "tags": [" -","minimal","mistakes"," -","jekyll"," -","blog"],
         "url": "/%C2%A0-/github_blog/tensorflow_fft/",
         "teaser": "/assets/images/chanwoo_kim_fb.jpg"
+      },{
+        "title": null,
+        "excerpt":"Introduction   Installation of Sentence Piece   ##   In this page, we discuss how to define a model using Keras.  ","categories": [],
+        "tags": null,
+        "url": "/2024-07-07-sentence_piece/",
+        "teaser": "/assets/images/chanwoo_kim_fb.jpg"
       }]

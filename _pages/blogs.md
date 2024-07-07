@@ -3,6 +3,7 @@ permalink: /blogs/
 title: "Blogs"
 toc: true
 layout: home
+toc_label: "Tutorials"
 #sidebar:
 #  nav: "docs"
 ---

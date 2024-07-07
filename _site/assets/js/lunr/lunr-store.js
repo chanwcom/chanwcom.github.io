@@ -11,9 +11,9 @@ var store = [{
         "url": "/%C2%A0-/github_blog/tensorflow_fft/",
         "teaser": "/assets/images/chanwoo_kim_fb.jpg"
       },{
-        "title": null,
-        "excerpt":"Introduction   Installation of Sentence Piece   ##   In this page, we discuss how to define a model using Keras.  ","categories": [],
-        "tags": null,
-        "url": "/2024-07-07-sentence_piece/",
+        "title": "Sentence Piece Tutorial",
+        "excerpt":"Introduction   Preparation   Installation of Sentence Piece   STOP data set   In this example, we will use the STOP dataset.   Algorithm   Running it   Doing tokenization and detokenization   Summary   In this page, we discuss how to define a model using Keras.  ","categories": [" -","Tutorials"],
+        "tags": [" -","minimal","mistakes"," -","jekyll"," -","blog","-","standard"],
+        "url": "/%C2%A0-/tutorials/sentence_piece/",
         "teaser": "/assets/images/chanwoo_kim_fb.jpg"
       }]

@@ -20,6 +20,14 @@ toc_icon: "blog"
 ## Installation of Sentence Piece
 
 
+ Sentence Piece is a toolkit for tokenization. You may install it on Ubuntu environment.
+
+ ```
+ conda config --add channels conda-forge
+ conda config --set channel_priority strict
+ ```
+
+
 
 
 ## STOP data set
@@ -32,6 +40,14 @@ In this example, we will use the STOP dataset.
 
 # Running it
 
+
+```
+spm_train --input=train-all.trans_without_uttid.txt \
+       --model_prefix=model_unigram_256  \
+       --vocab_size=256 \
+       --character_coverage=1.0 \
+       --model_type=unigram
+```
 
 
 # Doing tokenization and detokenization

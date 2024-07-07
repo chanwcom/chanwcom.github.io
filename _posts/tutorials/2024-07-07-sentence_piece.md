@@ -17,22 +17,37 @@ toc_icon: "blog"
 
 # Preparation
 
-## Installation of Sentence Piece
+## Installation of SentencePiece
 
 
- Sentence Piece is a toolkit for tokenization. You may install it on Ubuntu environment.
+ *SentencePiece* is a toolkit for sub-word tokenization. In this tutorial, we assume that you are using Ubuntu Linux.
+ [Link to the *SentencePiece* github page](https://github.com/google/sentencepiece)
 
  ```
  conda config --add channels conda-forge
  conda config --set channel_priority strict
  ```
 
+ ```
+ conda install libsentencepiece sentencepiece sentencepiece-python sentencepiece-spm
+ ```
+
+ or 
+
+ ```
+ pip install sentencepiece
+ ```
 
 
 
 ## STOP data set
 
-In this example, we will use the STOP dataset.
+In this tutorial, we will use the STOP dataset. Information about this dataset may be found at the following link:
+https://facebookresearch.github.io/spoken_task_oriented_parsing/
+Stop dataset was developed for benchmarking the Spoken Language Understanding (SLU) task.
+
+You may download it from the following link:
+[Link to the download page](https://github.com/facebookresearch/fairseq/tree/main/examples/audio_nlp/nlu)
 
 
 # Algorithm

@@ -8,6 +8,8 @@ main:
     url: /papers/
   - title: "Patents"
     url: /patents/
+  - title: "Courses"
+    url: /courses/
   - title: "Blog"
     url: /blogs/
   - title: "My On-line Books"
